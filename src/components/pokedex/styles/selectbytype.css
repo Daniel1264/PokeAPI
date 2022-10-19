@@ -1,0 +1,26 @@
+option {
+    font-family: cursive;
+}
+
+.select {
+    padding: 15px;
+    border: none;
+    outline: none;
+    box-shadow: -1px 1px 10px #999;
+    cursor: pointer;
+    border-radius: none;
+    width: 300px;
+    appearance: none;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+
+
+.select_options {
+    text-decoration: none;
+    padding: 30px;
+    caret-color: rgb(166, 255, 0);
+    font-size: 15px;
+    height: 15px;
+}
